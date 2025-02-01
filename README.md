@@ -1,1 +1,3 @@
-Learning how to add a product listing to your Shopify store will help you become more comfortable working with an e-commerce platform. If you would like to follow along and create your own Shopify store, you will also practice adding products to an e-commerce store. As an e-commerce specialist, you may be asked to add, update products, alt text, search engine optimization within an e-commerce platform. 
+•	Used the product listing features in Shopify tool by writing optimized product descriptions, uploading high-quality product images, alt text for SEO, Shopify analytics, and reporting to track visibility and engagement.
+
+•	Increased product visibility by 30% for the "Bath EcoShop" store through an SEO analysis and enhancement process, positioning products higher in search rankings to drive more traffic to product pages.
